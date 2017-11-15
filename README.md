@@ -7,4 +7,4 @@ Useful if you were using Affiliates and now you are going to use Affiliates Pro,
 It is highly recommended to make a backup before executing the script.
 
 ## Screenshot
-[Affiliates->Woo Sync admin section](screenshot.png)
+![Affiliates->Woo Sync admin section](screenshot.png)
